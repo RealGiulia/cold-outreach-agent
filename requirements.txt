@@ -1,0 +1,2 @@
+# Python 3.14 compatible agent framework with native OpenRouter support.
+pydantic-ai-slim[openrouter]>=2.39,<3
